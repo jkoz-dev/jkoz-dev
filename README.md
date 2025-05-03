@@ -1,4 +1,4 @@
-Si vous voulez une version en Anglais, elle est disponible ici :
+_If you want an English version, it is available here :_
 
 **Eh Salut 😎 ! Je suis Joris !**
 -------
