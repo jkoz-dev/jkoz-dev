@@ -33,7 +33,7 @@ Voici quelques-unes des technologies et outils que j'utilise :
 ## 🌐 Mes liens
 
 - 🌍 [Mon site web/portfolio](#) : le lien arrive plus tard !
-- 🐦 [Twitter] : [Twitter](https://x.com/theazrod)
+- 🐦 Twitter : [Twitter](https://x.com/theazrod)
 
 ---
 
