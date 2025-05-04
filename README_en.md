@@ -1,4 +1,4 @@
-_If you want a French version, it is available here : [French](jkoz-dev/main/README.md)_
+_If you want a French version, it is available here : [French](https://github.com/jkoz-dev/jkoz-dev/blob/main/README.md)_
 
 # Hi there 👋, I'm Joris
 
