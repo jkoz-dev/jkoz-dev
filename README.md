@@ -9,7 +9,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui aime cr
 ## 🚀 À propos de moi
 
 - 🔭 Je travaille actuellement sur **en tout genre**.
-- 🌱 J’apprends actuellement : **Python, HTML, JavaScript, CSS** pour élargir mes compétences.
+- 🌱 J’apprends actuellement : **Python, HTML, JavaScript, CSS, PHP(à venir)** pour élargir mes compétences.
 - 📫 Comment me contacter : **sur mon Twitter ou Télégram (Télégram arrive plus tard)**
 - 😄 Pronom : **Il/Lui**
 
