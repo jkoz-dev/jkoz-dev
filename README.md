@@ -1,4 +1,4 @@
-_If you want an English version, it is available here : [English](https://github.com/jkoz-dev/jkoz-dev/blob/main/README_en.md) _
+_If you want an English version, it is available here : [English](https://github.com/jkoz-dev/jkoz-dev/blob/main/README_en.md)_
 
 # Bonjour 👋, je suis Joris
 
