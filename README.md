@@ -1,4 +1,4 @@
-_If you want an English version, it is available here :_
+_If you want an English version, it is available here : _
 
 # Bonjour 👋, je suis Joris
 
