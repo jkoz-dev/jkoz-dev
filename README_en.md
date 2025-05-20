@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating, exp
 - 🔭 I’m currently working on **various projects**.
 - 🌱 I’m currently learning: **Python, HTML, JavaScript, CSS, PHP (coming soon)** to expand my skill set.
 - 📫 How to reach me: **on my Twitter or Telegram (Telegram coming soon)**
-- 😄 Pronouns: **He/Him**
+- 😄 Pronouns: **He**
 
 ---
 
